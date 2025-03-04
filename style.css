@@ -31,5 +31,7 @@ a:hover {
   text-decoration-line: underline;
 }
 
-h1:hover {
+.orange {
+  color: coral;
+  font-family: , Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
